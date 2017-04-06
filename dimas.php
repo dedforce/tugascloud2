@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Cloud, Saya Dimas Luthfi Pratama";
+echo "Hello Cloud, Saya Dedi Ahmad";
 
 ?>
