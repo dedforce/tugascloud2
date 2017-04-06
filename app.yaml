@@ -1,8 +1,8 @@
-application: dimas
+application: dedi
 version: 1
 runtime: php55
 api_version: 1
 
 handlers:
 - url: /.*
-  script: dimas.php
+  script: dedi.php
